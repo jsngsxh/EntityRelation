@@ -31,7 +31,6 @@ overlap suppression, per-relation confidence thresholds, cross-sentence penalty)
 - [7. 项目结构与运行方式](#7-项目结构与运行方式)
 - [8. 实验结果](#8-实验结果)
 - [9. 误差来源分析](#9-误差来源分析)
-- [10. 已知问题与改进方向](#10-已知问题与改进方向)
 
 ---
 
